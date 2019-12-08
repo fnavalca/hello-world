@@ -1,2 +1,3 @@
 # hello-world
-Repository for learning purpose
+
+I am editing the file README.md as the tutorial says.
